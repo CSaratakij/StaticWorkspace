@@ -25,6 +25,7 @@
 - [NonInvasiveKeyboardHook](https://github.com/kfirprods/NonInvasiveKeyboardHook)
 
 # Note
+- Run build as 'Administrator' to make global keyboard shortcut work with root process 'ex. TaskManager'
 - Test only Windows 11 22H2
 - Hidden COM interface is subject to change out of MS whim
 - This software is not stable until MS decide to expose internal 'VirtualDesktop' api publicly
