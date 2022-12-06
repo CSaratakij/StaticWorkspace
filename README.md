@@ -16,6 +16,7 @@
 2) [Build 'NonInvasiveKeyboardHook' (.dll)](https://github.com/CSaratakij/NonInvasiveKeyboardHook/tree/hotfix-netframework-48-library)
 3) Add .dll as reference
 4) Build solution
+5) Run executable, use tray icon to exit
 
 # Requirement
 - .Net Framework 4.8
