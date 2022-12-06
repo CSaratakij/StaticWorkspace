@@ -20,6 +20,10 @@
 # Requirement
 - .Net Framework 4.8
 
+# Dependencies
+- [VirtualDesktop](https://github.com/MScholtes/VirtualDesktop)
+- [NonInvasiveKeyboardHook](https://github.com/kfirprods/NonInvasiveKeyboardHook)
+
 # Note
 - Test only Windows 11 22H2
 - Hidden COM interface is subject to change out of MS whim
